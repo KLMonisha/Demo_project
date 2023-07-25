@@ -1,0 +1,44 @@
+.loginhtml-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("https://images.unsplash.com/photo-1495584816685-4bdbf1b5057e?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDIwfHx3YXRlcnxlbnwwfHx8fDE2OTAyMTg5MTh8MA&ixlib=rb-4.0.3&w=1500");
+}
+.loginhtml-navlink {
+  top: 593px;
+  left: 802px;
+  position: absolute;
+  text-decoration: none;
+  background-color: #15a4ad;
+}
+.loginhtml-text {
+  top: 371px;
+  left: 708px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 800;
+}
+.loginhtml-text1 {
+  top: 484px;
+  left: 709px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 800;
+}
+.loginhtml-textinput {
+  top: 403px;
+  left: 707px;
+  height: 35px;
+  position: absolute;
+}
+.loginhtml-textinput1 {
+  top: 513px;
+  left: 707px;
+  height: 35px;
+  position: absolute;
+}

@@ -1,0 +1,85 @@
+.signuphtml-container {
+  color: var(--dl-color-gray-black);
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: row;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("https://images.unsplash.com/photo-1519455953755-af066f52f1a6?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDQ0fHx3YXRlcnxlbnwwfHx8fDE2OTAyMTg5MTl8MA&ixlib=rb-4.0.3&w=1500");
+}
+.signuphtml-text {
+  top: 101px;
+  left: 468px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+}
+.signuphtml-textinput {
+  top: 95px;
+  left: 575px;
+  height: 35px;
+  position: absolute;
+}
+.signuphtml-text1 {
+  top: 158px;
+  left: 466px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+}
+.signuphtml-text2 {
+  top: 220px;
+  left: 467px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+}
+.signuphtml-text3 {
+  top: 282px;
+  left: 468px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+}
+.signuphtml-textinput1 {
+  top: 151px;
+  left: 573px;
+  height: 35px;
+  position: absolute;
+}
+.signuphtml-textinput2 {
+  top: 211px;
+  left: 574px;
+  height: 35px;
+  position: absolute;
+}
+.signuphtml-textinput3 {
+  top: 273px;
+  left: 575px;
+  height: 35px;
+  position: absolute;
+}
+.signuphtml-navlink {
+  top: 358px;
+  left: 644px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.signuphtml-text4 {
+  top: 432px;
+  left: 587px;
+  position: absolute;
+}
+.signuphtml-navlink1 {
+  color: #1f2aa4;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: underline;
+}

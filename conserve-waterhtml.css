@@ -1,0 +1,43 @@
+.conserve-waterhtml-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url("public/external/images/whatsapp%20image%202023-07-24%20at%2010.07.59%20pm-1500w.jpeg");
+}
+.conserve-waterhtml-ul {
+  height: 963px;
+  margin-bottom: 156px;
+}
+.conserve-waterhtml-li {
+  height: 1078px;
+  position: relative;
+  text-decoration: none;
+}
+.conserve-waterhtml-text {
+  color: var(--dl-color-gray-black);
+  text-align: center;
+  background-size: cover;
+}
+.conserve-waterhtml-text001 {
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.conserve-waterhtml-text002 {
+  font-style: normal;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.conserve-waterhtml-navlink1 {
+  top: 3px;
+  right: 6px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+  text-decoration: none;
+}
